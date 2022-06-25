@@ -1,0 +1,10 @@
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\bin\Debug\Note Taking App.exe.config
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\bin\Debug\Note Taking App.exe
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\bin\Debug\Note Taking App.pdb
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note Taking App.csprojAssemblyReference.cache
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note_Taking_App.Form1.resources
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note_Taking_App.Properties.Resources.resources
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note Taking App.csproj.GenerateResource.cache
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note Taking App.csproj.CoreCompileInputs.cache
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note Taking App.exe
+C:\Users\gerib\OneDrive\Belgeler\My C# Projects\Note Taking App\obj\Debug\Note Taking App.pdb
